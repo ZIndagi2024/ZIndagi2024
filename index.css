@@ -1,0 +1,48 @@
+body{
+    background-color:pink;
+}
+.sb{
+    display: flex;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+
+}
+
+.sk{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.aa{
+    height: 700px;
+    
+}
+.bb{
+    background-color: black;
+    border-radius: 30px;
+}
+.mm{
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+
+}
+.footer{
+    justify-content: center!important;
+}
+.p{
+    width: 8%;
+    height: 5%;
+     margin-left:3% ;
+     border-top-right-radius: 30px;
+     border-bottom-left-radius:30px;
+     border: 2px solid black;
+}
+.p:hover{
+    background-color: aquamarine;
+}
+
+
+
